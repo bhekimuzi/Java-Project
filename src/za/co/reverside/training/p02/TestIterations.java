@@ -51,6 +51,8 @@ public class TestIterations {
         iter.swap(number);
         System.out.println("\n=======================\nExercise 19");
         System.out.println(letter+" "+iter.alphabet(letter));
+        System.out.println("\n=======================\nExercise 20");
+        System.out.println(iter.reverseNumber(number));
         
 
     }
